@@ -1,8 +1,8 @@
 .center {
         width: 100%;
         height: 100%;
-        display: flex
-        flex-how: row nowrap;
+        display: flex;
+        flex-now: row nowrap;
         align-itens: center;
         justily-content: center; 
         }
