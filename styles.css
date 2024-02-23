@@ -4,7 +4,7 @@
         display: flex;
         flex-flow: row nowrap;
         align-items: center;
-        justily-content: center; 
+        justify-content: center; 
         }
 
 html,body {
